@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.3
+cloudscraper==1.2.60
+requests==2.25.1
+selenium==4.3.0
+transformers==4.30.0
+webdriver-manager==3.8.0
